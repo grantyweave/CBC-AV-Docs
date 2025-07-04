@@ -9,7 +9,36 @@ Start by walking into the auditorium by turning on various lights through out th
 
 ## Step 2 - Boot Up
 
-Start the boot up process by turning the keys that are in the left and right racks underneath the soundbooth desk.
+Start the boot up process by turning the keys that are in the left and right racks underneath the sound booth desk. This will take roughly 3-4 minutes so you can move on to other tasks while the power is turning on.
 
-- Left Rack Key
-  CBC-AV-Docs/Soundboard Pics/left_rack_2.HEIC
+- Left Rack Keys
+  ![Left Rack Keys](<../Soundboard Pics/left_middle_rack.jpeg>)
+
+- Right Rack Key
+  ![Right Rack Key](<../Soundboard Pics/right_middle_rack.JPG>)
+
+- Full View
+  ![Full View Find Keys](<../Soundboard Pics/full_soundbooth_find_keys.JPG>)
+
+While waiting you can navigate to the livestream room and ensure that the mac behind the livestream monitor is on.
+
+- Find Livestream Mac (wall mounted behind the monitor)
+  ![livestream mac](<../Soundboard Pics/livestream_room_find_mac.JPG>)
+
+If the livestream mac is already ready to go, log into the computer and launch:
+
+- Ecamm Live ![ecamm_logo](<../MISC Pics/ecamm_app_icon.png>)
+- Logic Pro ![logic_pro_logo](<../MISC Pics/logic_pro_app_icon.png>)
+
+(Go here to learn more about getting the livestream up and running)
+
+Return to the booth and you should see that the Mac Mini is on, if it is not, this means the Mac Mini was turned off. Turning it on is as simple as pressing the power button on the bottom left corner until you hear the famous startup sound.
+
+If the keyboard and mouse are both unresponsive, they need to be turned on.
+
+- Apple Keyboard Power Slider ![apple_keyboard_power_slider](<../MISC Pics/apple_keyboard_power_button.jpg>)
+
+- Apple Mouse Power Slider ![apple_mouse_power_slider](<../MISC Pics/apple-magic-mouse_power_slide.jpg>)
+
+The soundboard gets turned on with a manual I/O switch found on the back bottom right of the board:
+![find_soundboard_power_switch](<../Soundboard Pics/full_soundbooth_find_power_button.JPG>)
